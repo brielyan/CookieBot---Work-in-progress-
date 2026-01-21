@@ -1,5 +1,7 @@
 # 🍪 Cookie Clicker Bot
 
+**dont forget to check the releases**
+
 A small automation project built with **Python + Selenium** to experiment with browser automation and game interaction.
 
 This bot is still **under active development** and may present bugs or unfinished features. The goal of the project is learning, testing ideas, and exploring how automation behaves in real-world websites.
